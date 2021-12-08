@@ -1,14 +1,20 @@
-# AR Foundation Samples
-Example projects that use *AR Foundation* and demonstrate its functionality with sample assets and components.
+# AR Foundation 
+Proyecto de ejemplo que usa *AR Foundarion* y demuestrán su funcional con simples componentes
 
-Compatible with Unity 2019.1 and later.
+Compatible con Unity 2019.1 y posteriores.
 
-## Instructions for installing AR Foundation
+## Descripción del proyecto
 
-1. Download the latest version of Unity 2019.1 or later.
+Ejemplo del funcionamiento de *Image Tracking* repoduciendo un video al momento de detectar alguna de las multiples imagenes configuradas.
 
-2. Open Unity, and load the project at the root of the *arfoundation-samples* repository.
+_En este ejemplo no se implementa algún script con UI_
 
-3. Open your choice of sample scene.
+## Instructiones para la instalación de AR Foundation
 
-4. See the [AR Foundation Documentation](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@2.0) for usage instructions and more information.
+1. Descarga la ultima versión de Unity 2019.1 o porsterior.
+
+2. Abrir Unity, y cargar el proyecto en la raíz del repositorio *arfoundation-samples*.
+
+3. Abrir la escena *Image Tracking*.
+
+4. Mira más documentación de [AR Foundation](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@2.0) para información sobre el uso e instrucciones.
